@@ -2144,6 +2144,15 @@
   },
   {
     "chainId": 42161,
+    "symbol": "Anon",
+    "name": "HeyAnon",
+    "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+    "logoURI": "BASE_URL/assets/anon.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 42161,
     "symbol": "SWORLD",
     "name": "Seedworld",
     "address": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
